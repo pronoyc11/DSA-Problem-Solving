@@ -24,7 +24,7 @@
 - Medium:  (0)
 - Hard:  (0)
 
-## 📚 Problems by Platform
+## 📚 Problems Solved by me PlatformWise
 
 ### Codeforces
 - [Beautiful matrix](https://codeforces.com/problemset/problem/263/A) | 2d arrays
