@@ -3,7 +3,7 @@
 Problem: Beautiful matrix
 Platform: Codeforces
 Difficulty: Easy
-Topic: 2d array
+Topic: 2d arrays
 Link:https://codeforces.com/problemset/problem/263/A
 Status: Solved
 */

@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "🔄 Auto pulling before push..."
+git pull --rebase
+
+if [ $? -ne 0 ]; then
+  echo "❌ Pull failed. Resolve conflicts first."
+  exit 1
+fi
+
+echo "🚀 Pushing now..."
+exit 0
