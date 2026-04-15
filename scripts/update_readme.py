@@ -14,7 +14,8 @@ stats = {
 problems_by_platform = {
     "Codeforces": [],
     "LeetCode": [],
-    "CodeChef": []
+    "CodeChef": [],
+    "Custom": []
 }
 
 # Difficulty stats
