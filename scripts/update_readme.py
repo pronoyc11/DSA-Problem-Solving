@@ -8,7 +8,11 @@ stats = {
     "CodeChef": 0
 }
 
-problems = []
+problems_by_platform = {
+    "Codeforces": [],
+    "LeetCode": [],
+    "CodeChef": []
+}
 
 for folder, _, files in os.walk(root):
     for file in files:
@@ -30,7 +34,8 @@ for folder, _, files in os.walk(root):
                     if plat in stats:
                         stats[plat] += 1
 
-                    problems.append((name, plat, topic))
+                    if plat in problems_by_platform:
+                        problems_by_platform[plat].append((name, topic))
 
 # Write README
 with open("README.md", "w", encoding="utf-8") as f:
@@ -39,9 +44,18 @@ with open("README.md", "w", encoding="utf-8") as f:
     f.write("## 🔥 Stats\n")
     for k, v in stats.items():
         f.write(f"- {k}: {v}\n")
+    total = sum(len(v) for v in problems_by_platform.values())
+    f.write(f"\n- Total Problems: {total}\n\n")
 
-    f.write(f"\n- Total Problems: {len(problems)}\n\n")
+    f.write("## 📚 Problems by Platform\n\n")
 
-    f.write("## 📚 Problem List\n")
-    for name, plat, topic in problems:
-        f.write(f"- {name} | {plat} | {topic}\n")
+    for platform, plist in problems_by_platform.items():
+        f.write(f"### {platform}\n")
+        
+        if len(plist) == 0:
+            f.write("- No problems yet\n")
+        else:
+            for name, topic in plist:
+                f.write(f"- {name} | {topic}\n")
+        
+        f.write("\n")

@@ -7,5 +7,14 @@
 
 - Total Problems: 1
 
-## 📚 Problem List
-- Kuriyama Mirai's Stones | Codeforces | Prefix Sum
+## 📚 Problems by Platform
+
+### Codeforces
+- Kuriyama Mirai's Stones | Prefix Sum
+
+### LeetCode
+- No problems yet
+
+### CodeChef
+- No problems yet
+
