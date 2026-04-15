@@ -2,10 +2,10 @@
 
 ## 🔥 Stats
 - Codeforces: 1
-- LeetCode: 0
+- LeetCode: 1
 - CodeChef: 0
 
-- Total Problems: 1
+- Total Problems: 2
 
 ## 📚 Problems by Platform
 
@@ -13,7 +13,7 @@
 - Kuriyama Mirai's Stones | Prefix Sum
 
 ### LeetCode
-- No problems yet
+- RangSumquery-immutable. | Prefix Sum
 
 ### CodeChef
 - No problems yet
