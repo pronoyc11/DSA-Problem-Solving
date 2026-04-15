@@ -20,8 +20,8 @@
 - Total Problems: 28
 
 ## 📈 Difficulty Distribution
-- Easy: ████████████████████████████ (28)
-- Medium:  (0)
+- Easy: ███████████████████████████ (27)
+- Medium: █ (1)
 - Hard:  (0)
 
 ## 📚 Problems Solved by me PlatformWise
