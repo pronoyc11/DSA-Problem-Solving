@@ -93,7 +93,7 @@ with open("README.md", "w", encoding="utf-8") as f:
     f.write("\n")
 
     # 📚 PROBLEMS
-    f.write("## 📚 Problems by Platform\n\n")
+    f.write("## 📚 Problems Solved by me PlatformWise\n\n")
 
     for platform, plist in problems_by_platform.items():
         f.write(f"### {platform}\n")
