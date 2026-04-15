@@ -1,0 +1,24 @@
+name: Auto Update README
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Run Python script
+      run: python3 scripts/update_readme.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "auto-bot"
+        git config --global user.email "bot@example.com"
+        git add README.md
+        git commit -m "Auto update README" || echo "No changes"
+        git push
