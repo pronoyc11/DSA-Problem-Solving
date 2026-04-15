@@ -1,15 +1,16 @@
 # 📊 DSA Problem Tracker
 
 ## 🔥 Stats
-- Codeforces: 1
+- Codeforces: 2
 - LeetCode: 1
 - CodeChef: 0
 
-- Total Problems: 2
+- Total Problems: 3
 
 ## 📚 Problems by Platform
 
 ### Codeforces
+- Beautiful matrix | Prefix Sum
 - Kuriyama Mirai's Stones | Prefix Sum
 
 ### LeetCode
