@@ -1,7 +1,7 @@
 /*
 Problem: Kuriyama Mirai's Stones
 Platform: Codeforces
-Difficulty: Easy
+Difficulty: Medium
 Topic: Prefix Sum
 Link: https://codeforces.com/problemset/problem/433/B
 Status: Solved
