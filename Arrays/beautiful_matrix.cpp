@@ -3,7 +3,7 @@
 Problem: Beautiful matrix
 Platform: Codeforces
 Difficulty: Easy
-Topic: Prefix Sum
+Topic: 2d array
 Link:https://codeforces.com/problemset/problem/263/A
 Status: Solved
 */
