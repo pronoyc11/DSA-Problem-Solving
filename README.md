@@ -10,7 +10,7 @@
 ## 📚 Problems by Platform
 
 ### Codeforces
-- Beautiful matrix | 2d array
+- Beautiful matrix | 2d arrays
 - Kuriyama Mirai's Stones | Prefix Sum
 
 ### LeetCode
