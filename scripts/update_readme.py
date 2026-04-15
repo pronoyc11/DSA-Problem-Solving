@@ -37,7 +37,7 @@ for folder, _, files in os.walk(root):
                 platform = re.search(r'Platform:\s*(.*)', content)
                 topic = re.search(r'Topic:\s*(.*)', content)
                 difficulty = re.search(r'Difficulty:\s*(.*)', content)
-
+                link = re.search(r'Link:\s*(.*)', content) #added by p1
                 if problem and platform and topic:
                     name = problem.group(1).strip()
                     plat = platform.group(1).strip()
@@ -49,7 +49,8 @@ for folder, _, files in os.walk(root):
 
                     # Store problem
                     if plat in problems_by_platform:
-                        problems_by_platform[plat].append((name, topic))
+                        problem_link = link.group(1).strip() if link else "#"
+                        problems_by_platform[plat].append((name, topic, problem_link))#added by p1
 
                     # Difficulty count
                     if difficulty:
@@ -100,7 +101,7 @@ with open("README.md", "w", encoding="utf-8") as f:
         if len(plist) == 0:
             f.write("- No problems yet\n")
         else:
-            for name, topic in plist:
-                f.write(f"- {name} | {topic}\n")
+            for name, topic, problem_link in plist:
+                f.write(f"- [{name}]({problem_link}) | {topic}\n")
 
         f.write("\n")

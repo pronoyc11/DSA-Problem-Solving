@@ -27,11 +27,11 @@
 ## 📚 Problems by Platform
 
 ### Codeforces
-- Beautiful matrix | 2d arrays
-- Kuriyama Mirai's Stones | Prefix Sum
+- [Beautiful matrix](https://codeforces.com/problemset/problem/263/A) | 2d arrays
+- [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | Prefix Sum
 
 ### LeetCode
-- RangSumquery-immutable. | Prefix Sum
+- [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
 
 ### CodeChef
 - No problems yet
