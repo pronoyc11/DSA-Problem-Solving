@@ -14,13 +14,13 @@
 
 ## 📊 DSA Stats
 - Codeforces: 23
-- LeetCode: 1
+- LeetCode: 2
 - CodeChef: 0
 
-- Total Problems: 28
+- Total Problems: 29
 
 ## 📈 Difficulty Distribution
-- Easy: ███████████████████████████ (27)
+- Easy: ████████████████████████████ (28)
 - Medium: █ (1)
 - Hard:  (0)
 
@@ -52,6 +52,7 @@
 - [Is your horseshoe on the other hoof](https://codeforces.com/problemset/problem/228/A) | Implementation, Set
 
 ### LeetCode
+- [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
 - [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
 
 ### CodeChef
