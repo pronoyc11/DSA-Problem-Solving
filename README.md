@@ -13,16 +13,16 @@
 - CodeChef: (will be added later)
 
 ## 📊 DSA Stats
-- Codeforces: 23
-- LeetCode: 2
-- CodeChef: 0
+- Codeforces: 24
+- LeetCode: 3
+- CodeChef: 2
 
-- Total Problems: 29
+- Total Problems: 33
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
 - Medium: █ (1)
-- Hard:  (0)
+- Hard: █ (1)
 
 ## 📚 Problems Solved by me PlatformWise
 
@@ -41,6 +41,7 @@
 - [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Implementation
 - [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Implementation
 - [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Implementation
+- [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
 - [Calculating Function](https://codeforces.com/problemset/problem/486/A) | Math
 - [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | Prefix Sum
 - [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Set, String
@@ -53,10 +54,12 @@
 
 ### LeetCode
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
+- [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
 - [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
 
 ### CodeChef
-- No problems yet
+- [Matrix Game](https://www.codechef.com/problems/SNCK01?tab=statement) | Implementation
+- [factorial](https://www.codechef.com/problems/FCTRL2) | Recursion
 
 ### Custom
 - [Quick Sort](N/A) | Arrays, Counting
