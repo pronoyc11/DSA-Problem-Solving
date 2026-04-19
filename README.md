@@ -13,11 +13,11 @@
 - CodeChef: (will be added later)
 
 ## 📊 DSA Stats
-- Codeforces: 24
-- LeetCode: 3
-- CodeChef: 2
+- Codeforces: 26
+- LeetCode: 5
+- CodeChef: 3
 
-- Total Problems: 33
+- Total Problems: 38
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -41,6 +41,8 @@
 - [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Implementation
 - [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Implementation
 - [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Implementation
+- [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) | Recursion
+- [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Recursion
 - [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
 - [Calculating Function](https://codeforces.com/problemset/problem/486/A) | Math
 - [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | Prefix Sum
@@ -55,10 +57,13 @@
 ### LeetCode
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
 - [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/description/) | Recursion
+- [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
 - [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
 
 ### CodeChef
 - [Matrix Game](https://www.codechef.com/problems/SNCK01?tab=statement) | Implementation
+- [231. Power of Two](https://www.codechef.com/problems/FLOW006) | Recursion
 - [factorial](https://www.codechef.com/problems/FCTRL2) | Recursion
 
 ### Custom
