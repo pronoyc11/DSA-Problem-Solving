@@ -13,11 +13,11 @@
 - CodeChef: (will be added later)
 
 ## 📊 DSA Stats
-- Codeforces: 26
-- LeetCode: 5
+- Codeforces: 27
+- LeetCode: 6
 - CodeChef: 3
 
-- Total Problems: 38
+- Total Problems: 40
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -41,6 +41,7 @@
 - [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Implementation
 - [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Implementation
 - [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Implementation
+- [Theater_Square(Needs revise)](https://codeforces.com/problemset/problem/1/A) | Math
 - [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) | Recursion
 - [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Recursion
 - [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
@@ -56,6 +57,7 @@
 
 ### LeetCode
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
+- [Climbing Stairs(needs practice)](https://leetcode.com/problems/climbing-stairs/description/) | Recursion
 - [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/) | Recursion
 - [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
