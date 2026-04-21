@@ -14,10 +14,10 @@
 
 ## 📊 DSA Stats
 - Codeforces: 27
-- LeetCode: 6
+- LeetCode: 7
 - CodeChef: 3
 
-- Total Problems: 40
+- Total Problems: 41
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -56,6 +56,7 @@
 - [Is your horseshoe on the other hoof](https://codeforces.com/problemset/problem/228/A) | Implementation, Set
 
 ### LeetCode
+- [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
 - [Climbing Stairs(needs practice)](https://leetcode.com/problems/climbing-stairs/description/) | Recursion
 - [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
