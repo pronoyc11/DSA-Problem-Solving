@@ -28,7 +28,7 @@ difficulty_stats = {
 # Traverse files
 for folder, _, files in os.walk(root):
     for file in files:
-        if file.endswith(".cpp"):
+        if file.endswith(".cpp" or ".py"):
             path = os.path.join(folder, file)
 
             with open(path, "r", encoding="utf-8") as f:

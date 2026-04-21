@@ -1,12 +1,13 @@
 
 '''
+/*
 Problem: TwoSum
 Platform: LeetCode
 Difficulty: medium
 Topic: Implementation
 Link: https://leetcode.com/problems/two-sum/
 Status: Solved
-
+*/
 '''
 
 class Solution:
