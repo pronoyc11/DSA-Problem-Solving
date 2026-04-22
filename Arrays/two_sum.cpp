@@ -1,5 +1,5 @@
 
-'''
+
 /*
 Problem: TwoSum
 Platform: LeetCode
@@ -8,8 +8,8 @@ Topic: Implementation
 Link: https://leetcode.com/problems/two-sum/
 Status: Solved
 */
-'''
 
+/*
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         lookup = {}
@@ -22,3 +22,5 @@ class Solution:
                 return [nums.index(difference),i]
             i +=1
         return False
+
+        */
