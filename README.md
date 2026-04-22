@@ -13,11 +13,11 @@
 - CodeChef: (will be added later)
 
 ## 📊 DSA Stats
-- Codeforces: 27
-- LeetCode: 7
+- Codeforces: 29
+- LeetCode: 8
 - CodeChef: 3
 
-- Total Problems: 41
+- Total Problems: 44
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -42,9 +42,11 @@
 - [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Implementation
 - [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Implementation
 - [Theater_Square(Needs revise)](https://codeforces.com/problemset/problem/1/A) | Math
+- [Drinks](https://codeforces.com/problemset/problem/200/B) | loop
 - [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) | Recursion
 - [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Recursion
 - [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
+- [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | loop
 - [Calculating Function](https://codeforces.com/problemset/problem/486/A) | Math
 - [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | Prefix Sum
 - [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Set, String
@@ -58,6 +60,7 @@
 ### LeetCode
 - [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
+- [Sum of All Odd Length Subarrays(Needs revise for the alternative solution-O(n))](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | loop
 - [Climbing Stairs(needs practice)](https://leetcode.com/problems/climbing-stairs/description/) | Recursion
 - [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/) | Recursion
