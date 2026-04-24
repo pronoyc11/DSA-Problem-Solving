@@ -13,11 +13,11 @@
 - CodeChef: (will be added later)
 
 ## 📊 DSA Stats
-- Codeforces: 29
+- Codeforces: 30
 - LeetCode: 8
 - CodeChef: 3
 
-- Total Problems: 44
+- Total Problems: 47
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -45,6 +45,7 @@
 - [Drinks](https://codeforces.com/problemset/problem/200/B) | loop
 - [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) | Recursion
 - [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Recursion
+- [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A) | Recursion
 - [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
 - [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | loop
 - [Calculating Function](https://codeforces.com/problemset/problem/486/A) | Math
@@ -73,6 +74,8 @@
 - [factorial](https://www.codechef.com/problems/FCTRL2) | Recursion
 
 ### Custom
+- [All_subsets](#) | Recursion
+- [Binary_Strings](#) | Recursion
 - [Quick Sort](N/A) | Arrays, Counting
 - [Merge Sort](N/A) | Arrays, Counting
 - [Insertion Sort](N/A) | Arrays, Counting
