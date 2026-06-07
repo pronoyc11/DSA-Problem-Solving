@@ -14,10 +14,10 @@
 
 ## 📊 DSA Stats
 - Codeforces: 31
-- LeetCode: 8
+- LeetCode: 9
 - CodeChef: 3
 
-- Total Problems: 48
+- Total Problems: 49
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -62,6 +62,7 @@
 ### LeetCode
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
 - [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
+- [TwoSum with two pointers](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Implementation
 - [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
 - [Climbing Stairs(needs practice)](https://leetcode.com/problems/climbing-stairs/description/) | Recursion
 - [Sum of All Odd Length Subarrays(Needs revise for the alternative solution-O(n))](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | loop
