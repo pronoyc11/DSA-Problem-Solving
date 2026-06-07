@@ -13,11 +13,11 @@
 - CodeChef: (will be added later)
 
 ## 📊 DSA Stats
-- Codeforces: 30
+- Codeforces: 31
 - LeetCode: 8
 - CodeChef: 3
 
-- Total Problems: 47
+- Total Problems: 48
 
 ## 📈 Difficulty Distribution
 - Easy: ████████████████████████████ (28)
@@ -27,46 +27,47 @@
 ## 📚 Problems Solved by me PlatformWise
 
 ### Codeforces
-- [Police Recruits](https://codeforces.com/problemset/problem/427/A) | Implementation
-- [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Bit Manipulation
-- [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Implementation
-- [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | Implementation
-- [Games](https://codeforces.com/problemset/problem/268/A) | Implementation
-- [Bit++](https://codeforces.com/problemset/problem/282/A) | Implementation
-- [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | String
-- [Beautiful matrix](https://codeforces.com/problemset/problem/263/A) | 2d arrays
-- [Presents](https://codeforces.com/problemset/problem/136/A) | Implementation
 - [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Sorting, String
-- [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | Math
+- [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Bit Manipulation
+- [Games](https://codeforces.com/problemset/problem/268/A) | Implementation
+- [Beautiful matrix](https://codeforces.com/problemset/problem/263/A) | 2d arrays
+- [Police Recruits](https://codeforces.com/problemset/problem/427/A) | Implementation
 - [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Implementation
+- [Bit++](https://codeforces.com/problemset/problem/282/A) | Implementation
 - [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Implementation
+- [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | Math
+- [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Implementation
 - [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Implementation
-- [Theater_Square(Needs revise)](https://codeforces.com/problemset/problem/1/A) | Math
-- [Drinks](https://codeforces.com/problemset/problem/200/B) | loop
-- [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) | Recursion
-- [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Recursion
-- [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A) | Recursion
-- [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
-- [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | loop
+- [Presents](https://codeforces.com/problemset/problem/136/A) | Implementation
+- [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | Implementation
+- [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | String
+- [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Set, String
+- [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | String
+- [Word](https://codeforces.com/problemset/problem/59/A) | String
 - [Calculating Function](https://codeforces.com/problemset/problem/486/A) | Math
 - [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | Prefix Sum
-- [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Set, String
-- [Word](https://codeforces.com/problemset/problem/59/A) | String
-- [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | String
-- [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Brute Force
-- [Pangram](https://codeforces.com/problemset/problem/520/A) | String, Set
 - [Anton and letters](https://codeforces.com/problemset/problem/443/A) | frequency array
+- [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Brute Force
 - [Is your horseshoe on the other hoof](https://codeforces.com/problemset/problem/228/A) | Implementation, Set
+- [Pangram](https://codeforces.com/problemset/problem/520/A) | String, Set
+- [A. Lucky Division](https://codeforces.com/problemset/problem/122/A) | Recursion
+- [Drinks](https://codeforces.com/problemset/problem/200/B) | loop
+- [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | loop
+- [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Recursion
+- [Perfect Permutation](https://codeforces.com/problemset/problem/233/A) | Recursion
+- [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Recursion
+- [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A) | Recursion
+- [Theater_Square(Needs revise)](https://codeforces.com/problemset/problem/1/A) | Math
 
 ### LeetCode
-- [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
-- [Sum of All Odd Length Subarrays(Needs revise for the alternative solution-O(n))](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | loop
+- [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
+- [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
 - [Climbing Stairs(needs practice)](https://leetcode.com/problems/climbing-stairs/description/) | Recursion
-- [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
+- [Sum of All Odd Length Subarrays(Needs revise for the alternative solution-O(n))](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | loop
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/) | Recursion
 - [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
-- [RangSumquery-immutable.](https://leetcode.com/problems/range-sum-query-immutable/solutions/) | Prefix Sum
+- [fibonacci](https://leetcode.com/problems/fibonacci-number/) | Recursion
 
 ### CodeChef
 - [Matrix Game](https://www.codechef.com/problems/SNCK01?tab=statement) | Implementation
@@ -74,10 +75,10 @@
 - [factorial](https://www.codechef.com/problems/FCTRL2) | Recursion
 
 ### Custom
-- [All_subsets](#) | Recursion
-- [Binary_Strings](#) | Recursion
-- [Quick Sort](N/A) | Arrays, Counting
-- [Merge Sort](N/A) | Arrays, Counting
 - [Insertion Sort](N/A) | Arrays, Counting
+- [Merge Sort](N/A) | Arrays, Counting
 - [Quick Sort](N/A) | Arrays, Counting
+- [Quick Sort](N/A) | Arrays, Counting
+- [Binary_Strings](#) | Recursion
+- [All_subsets](#) | Recursion
 
