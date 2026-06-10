@@ -14,13 +14,13 @@
 
 ## 📊 DSA Stats
 - Codeforces: 31
-- LeetCode: 11
+- LeetCode: 12
 - CodeChef: 3
 
-- Total Problems: 51
+- Total Problems: 52
 
 ## 📈 Difficulty Distribution
-- Easy: ████████████████████████████ (28)
+- Easy: █████████████████████████████ (29)
 - Medium: █ (1)
 - Hard: █ (1)
 
@@ -62,6 +62,7 @@
 ### LeetCode
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
 - [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
+- [Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Math
 - [Segregate 0 and 1](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Implementation
 - [TwoSum with two pointers](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Implementation
 - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2026369231/) | Implementation
