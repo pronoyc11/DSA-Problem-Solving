@@ -14,10 +14,10 @@
 
 ## 📊 DSA Stats
 - Codeforces: 31
-- LeetCode: 13
+- LeetCode: 14
 - CodeChef: 3
 
-- Total Problems: 53
+- Total Problems: 54
 
 ## 📈 Difficulty Distribution
 - Easy: █████████████████████████████ (29)
@@ -63,6 +63,7 @@
 - [Three Sum](https://leetcode.com/problems/3sum/submissions/2029860675/) | Math
 - [TwoSum](https://leetcode.com/problems/two-sum/) | Implementation
 - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2026369231/) | Implementation
+- [Three sum to closest](https://leetcode.com/problems/3sum-closest/submissions/2045764200/) | Math
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Implementation
 - [Segregate 0 and 1](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Implementation
 - [TwoSum with two pointers](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Implementation
